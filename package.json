@@ -1,0 +1,13 @@
+{
+  "name": "msn-juegos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MSN Juegos: reta a tus amigos por WhatsApp y jugad desde el móvil.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
